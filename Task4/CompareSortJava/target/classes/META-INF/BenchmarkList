@@ -1,0 +1,3 @@
+JMH S 16 benchmarks.bench S 50 benchmarks.jmh_generated.bench_defaultSort_jmhTest S 11 defaultSort S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 16 benchmarks.bench S 48 benchmarks.jmh_generated.bench_mergeSort_jmhTest S 9 mergeSort S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 16 benchmarks.bench S 48 benchmarks.jmh_generated.bench_quickSort_jmhTest S 9 quickSort S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 

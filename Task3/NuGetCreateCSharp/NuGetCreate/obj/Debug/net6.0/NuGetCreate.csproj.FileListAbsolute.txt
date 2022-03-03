@@ -1,0 +1,12 @@
+C:\Users\Артём\source\repos\NuGetCreate\NuGetCreate\bin\Debug\net6.0\NuGetCreate.deps.json
+C:\Users\Артём\source\repos\NuGetCreate\NuGetCreate\bin\Debug\net6.0\NuGetCreate.dll
+C:\Users\Артём\source\repos\NuGetCreate\NuGetCreate\bin\Debug\net6.0\ref\NuGetCreate.dll
+C:\Users\Артём\source\repos\NuGetCreate\NuGetCreate\bin\Debug\net6.0\NuGetCreate.pdb
+C:\Users\Артём\source\repos\NuGetCreate\NuGetCreate\obj\Debug\net6.0\NuGetCreate.csproj.AssemblyReference.cache
+C:\Users\Артём\source\repos\NuGetCreate\NuGetCreate\obj\Debug\net6.0\NuGetCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\source\repos\NuGetCreate\NuGetCreate\obj\Debug\net6.0\NuGetCreate.AssemblyInfoInputs.cache
+C:\Users\Артём\source\repos\NuGetCreate\NuGetCreate\obj\Debug\net6.0\NuGetCreate.AssemblyInfo.cs
+C:\Users\Артём\source\repos\NuGetCreate\NuGetCreate\obj\Debug\net6.0\NuGetCreate.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\NuGetCreate\NuGetCreate\obj\Debug\net6.0\NuGetCreate.dll
+C:\Users\Артём\source\repos\NuGetCreate\NuGetCreate\obj\Debug\net6.0\ref\NuGetCreate.dll
+C:\Users\Артём\source\repos\NuGetCreate\NuGetCreate\obj\Debug\net6.0\NuGetCreate.pdb

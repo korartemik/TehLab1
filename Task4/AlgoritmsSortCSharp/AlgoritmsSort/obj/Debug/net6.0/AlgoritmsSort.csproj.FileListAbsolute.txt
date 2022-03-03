@@ -1,0 +1,15 @@
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\bin\Debug\net6.0\AlgoritmsSort.exe
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\bin\Debug\net6.0\AlgoritmsSort.deps.json
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\bin\Debug\net6.0\AlgoritmsSort.runtimeconfig.json
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\bin\Debug\net6.0\AlgoritmsSort.dll
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\bin\Debug\net6.0\ref\AlgoritmsSort.dll
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\bin\Debug\net6.0\AlgoritmsSort.pdb
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\obj\Debug\net6.0\AlgoritmsSort.csproj.AssemblyReference.cache
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\obj\Debug\net6.0\AlgoritmsSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\obj\Debug\net6.0\AlgoritmsSort.AssemblyInfoInputs.cache
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\obj\Debug\net6.0\AlgoritmsSort.AssemblyInfo.cs
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\obj\Debug\net6.0\AlgoritmsSort.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\obj\Debug\net6.0\AlgoritmsSort.dll
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\obj\Debug\net6.0\ref\AlgoritmsSort.dll
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\obj\Debug\net6.0\AlgoritmsSort.pdb
+C:\Users\Артём\source\repos\AlgoritmsSort\AlgoritmsSort\obj\Debug\net6.0\AlgoritmsSort.genruntimeconfig.cache
