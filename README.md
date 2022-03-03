@@ -23,7 +23,7 @@ Laboratory №1 on programming technologies
 
 Проблема такая как и в жабе, нужно знать архитектуру на которй будет запускаться. Но процесс интеропа между C->C# намного легче чем на Java.
 
-##Task2
+## Task2
 1. Декомпиляция scala в java
 
 ![image](https://user-images.githubusercontent.com/54327287/156582284-8369d04f-cac7-4cb1-aafb-df2ab99b5bfd.png)
@@ -36,7 +36,7 @@ Laboratory №1 on programming technologies
 
 Остаётся синтаксис f#
 
-##Task3
+## Task3
 
 1. Используем Maven
 Создаём Maven проект и компилируем jar файл, с помощью Maven. указывая парметры в pom.xml
