@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e68442d-556a-436a-b31e-e33a168bf2dd": {
+      "ProjectGuid": "9e68442d-556a-436a-b31e-e33a168bf2dd",
+      "DisplayName": "ConsoleApp3csharp",
+      "ColorIndex": 0
+    },
+    "3d3f8d05-08e5-4281-a1d0-77596d202644": {
+      "ProjectGuid": "3d3f8d05-08e5-4281-a1d0-77596d202644",
+      "DisplayName": "ConsoleApp3FSharp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

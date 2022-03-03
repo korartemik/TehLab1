@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l8DN7oNqbSZ7AfNdgt4Su9u3RovcAvIu4yYEorVQaBd3la8sxlmsDCleEWkHUd3UaFK7DSJbtGYiAhhy7Ee62w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Артём\\source\\repos\\ConsoleApp3FSharp\\ConsoleApp3FSharp\\ConsoleApp3FSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Артём\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
